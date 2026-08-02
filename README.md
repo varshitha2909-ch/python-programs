@@ -9,7 +9,7 @@ This repository contains basic python programs.
    - Calculates the factorial of a given number
 
 ## Language
--python
+- python
 
 ## Concepts used
 - input()
