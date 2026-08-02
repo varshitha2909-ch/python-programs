@@ -11,6 +11,9 @@ This repository contains basic python programs.
 3.Palindrome string checker
    - A palindrome string is a string that reads the same forward and backward
 
+4.Anagram
+   - comparing two characters of both strings
+
 ## Language
 - python
 
@@ -21,3 +24,4 @@ This repository contains basic python programs.
 - if-else
 - for loop
 - String slicing ([::-1])
+- sorted() function
