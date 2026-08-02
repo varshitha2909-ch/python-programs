@@ -8,6 +8,9 @@ This repository contains basic python programs.
 2.Factorial of a number
    - Calculates the factorial of a given number
 
+3.Palindrome string checker
+   - A palindrome string is a string that reads the same forward and backward
+
 ## Language
 - python
 
@@ -17,3 +20,4 @@ This repository contains basic python programs.
 - variables
 - if-else
 - for loop
+- String slicing ([::-1])
