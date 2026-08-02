@@ -14,14 +14,18 @@ This repository contains basic python programs.
 4.Anagram
    - comparing two characters of both strings
 
+5.Armstrong Number checker
+   - An armstrong number is equal to the sum of its digits raised to the power of the number of digits
+
 ## Language
 - python
 
 ## Concepts used
 - input()
-- Modulus (%)
 - variables
-- if-else
+- if-else statement
 - for loop
 - String slicing ([::-1])
 - sorted() function
+- while loop
+- Arithmetic operators('%' , '//' , '**')
