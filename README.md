@@ -17,6 +17,9 @@ This repository contains basic python programs.
 5.Armstrong Number checker
    - An armstrong number is equal to the sum of its digits raised to the power of the number of digits
 
+6.palindrome number checker
+   - A palindrome number is a number that reads the same forward and backward
+
 ## Language
 - python
 
