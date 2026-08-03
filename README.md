@@ -23,6 +23,9 @@ This repository contains basic python programs.
 7.Fibonacci program
    - Generates the fibonacci series up to the specified number of terms.
 
+8.Reverse program
+   - Find the reverse of a number and reverse of a string.
+
 ## Language
 - python
 
