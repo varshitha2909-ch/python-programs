@@ -26,6 +26,12 @@ This repository contains basic python programs.
 8.Reverse program
    - Find the reverse of a number and reverse of a string.
 
+9.Prime number checker
+   - Checks whether a given number is prime or not.
+
+10.Second largest number
+   - Finds the second largest number in a list.
+
 ## Language
 - python
 
@@ -34,7 +40,9 @@ This repository contains basic python programs.
 - variables
 - if-else statement
 - for loop
+- List
 - String slicing ([::-1])
 - sorted() function
 - while loop
+- Input/Output
 - Arithmetic operators('%' , '//' , '**')
